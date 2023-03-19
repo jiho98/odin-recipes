@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to my Odin Recipes project! This is an exciting opportunity for me to practice and demonstrate my HTML skills. Throughout this project, I will be building a recipe website consisting of a main index page with links to various recipes. By completing this project, I aim to enhance my knowledge of HTML and its semantic structure, improve my proficiency in creating headings, paragraphs, links, and images, and develop a solid foundation for creating more complex web projects in the future. I look forward to learning and growing through this project!
